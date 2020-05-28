@@ -1,0 +1,34 @@
+.photo{
+    width: 150px;
+    /*height: 150px;*/
+    /*position: relative;*/
+}
+.photo img{
+    width: 100%;
+}
+
+.test-title{
+    display: block;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.center-img{
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+    text-align: end;
+    color: dimgray;
+}
+.center-img b{
+    font-weight: 400;
+}
+.photo-img{
+    display: inline;
+}
+.col-md-4{
+    float: left;
+}
+
