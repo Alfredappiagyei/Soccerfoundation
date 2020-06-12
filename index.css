@@ -59,7 +59,7 @@
     width: 100%;
   }
 
-  .about {
+  #about {
     display: block;
     text-align: center;
     padding: 120px 0px;
@@ -103,7 +103,7 @@ button:focus {
 }
    
   .sponsors {
-    padding: 50px 100px;
+    padding: 50px 0px;
     display: block;
     text-align: center;
        
@@ -137,13 +137,13 @@ button:focus {
     background: transparent;
       background-size: cover;
       font-family: sans-serif;
-      margin: 10% 19% auto 19%;
+      margin: 0px 0px 15% 0px;
       display: block;
       text-align: center;
       justify-content: center;
-      padding: 10px 10px;
+      padding: 50px 10px;
       color: #fff;
-      
+      font-family: sans-serif;
       }
    
 
