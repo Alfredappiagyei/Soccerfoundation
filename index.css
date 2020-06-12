@@ -28,7 +28,6 @@
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
-    color: #1161ed;
 
   }
   
@@ -68,20 +67,20 @@
   #about {
     display: block;
     text-align: center;
-    margin: 120px 0px;
+    margin: 0px 0px 110px 0px;
     width: 100%;
+    background-color: green;
 
   }
   
   #gallery {
     display: block;
     text-align: center;
+    background-color: #1161ed;
+    padding: 100px 0px;
   }
   
-  #gallery h2{
-    margin-bottom: 50px;
-    
-  }
+  
 
   
   #gallery img{
@@ -91,15 +90,15 @@
 
 
   #contacts {
-    background-color: #1161ed;
-    
+  
+    background-color: green;
   }
   
    #contacts span {
      display: block;
      margin: 20px;
-     font-size: 18px;
-     color: lawngreen;
+     font-size: 20px;
+     color: #fff;
    }
    
 .button {
@@ -129,6 +128,8 @@ button:focus {
     padding: 50px 0px;
     display: block;
     text-align: center;
+    background-color: #118aed;
+    
        
   }
     
