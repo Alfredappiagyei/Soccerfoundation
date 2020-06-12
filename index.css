@@ -1,153 +1,137 @@
+
+
 #nav{
-    background-color:#003056;  
-  }
-
-  
-.carousel-inner {
-  background: url(photos/48.jpg);
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  height: 550px;
-}
-  
-  #left{
-    margin: 5px 0px 0px 50px;
-  
-  }
-  
-  
-  #left span{
-    padding: 6px 10px; 
-    border-radius: 50%;
-    margin: 0px 10px 0px 0px;
     background-color: #fff;
-    color: #003056;
-  
+    padding: 30px 30px; 
+    margin: 0px;
   }
-  
-  
-  #right{
-    margin: 0px 20px;
+  .navbar-brand {
+    margin: -40px 0px 0px 0px;
   }
-  
-  
-  
-  #right a{
-    margin: 0px 30px 0px 0px;
-    color: #fff;
-    font-weight: bold;
-    font-family: sans-serif;
-    font-size: 20px;
-  }
-  
-  
-  .dropdown {
-    position: relative;
-    display: inline-block;
-    border: none;
-    text-align: center;
-    font-size: 20px;
-  
-     
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color:#003056;
-    min-width: auto;
-    box-shadow: 0px 8px 16px 0px
-    rgba(0,0,0,0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    padding: 12px 0px;
-    text-decoration: none;
-    display: block;
-    font-size: 20px;
-    color: #fff;
-    
-  }
-  
-  
-  .dropdown-content a:hover {background-color: #ddd;}
-  
-  .dropdown:hover .dropdown-content {display: block;}
-  
-  
-  
-  
-  .btn{
-    min-height: 54px;
-    width: 50px;
-    background-color: red;
-    border: none;
-    border-radius: none;
-  }
-  
-  .btn:hover{background-color: yellowgreen;}
-  
-  
-  #comit{
-    padding: 20px 20px;
-    justify-content: center;
-    text-align: center;
-    color: #fff;
-    background-color: #003056;
-    min-height: 150px;
-    font-family: sans-serif;
-    
-  }
-  
-  
-  #comit h4{
+  .container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
    
-    font-size: 20px;
+  
+  #navright a{
+    margin: 0px 30px 0px 0px;
+    color: cornflowerblue;
     font-weight: bold;
     font-family: sans-serif;
-    text-align: center;
+    font-size: 20px;
   }
-  
-  #involve{
-    display: block;
-    text-align: center;
-    padding: 0px 20px;
-   margin-top: 70px;
 
-  }
-  
-  
-  #involve span{
-   font-size: 80px;
-   font-weight: bold;
-   color: red;
-   margin: 0px 20px;
-   padding: 10px 25px;
-   border: 5px solid #003056;
-   border-radius: 50%;
-  }
-  
-  
-  
-  .item{
+  #item1 {
+    background: url(photos/48.jpg);
     background-size: cover;
     font-family: sans-serif;
-    min-height: 550px;  
-    background-position: relative;
-    
-        
-    }
-
+    min-height: 550px;
+  }
   
-  #about{
+  #item2 {
+    background: url(photos/48.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    min-height: 550px;
+  }
+  
+  #item3 {
+    background: url(photos/48.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    min-height: 550px;
+  }
+  
+  #item4 {
+    background: url(photos/48.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+    min-height: 550px;
+  }
+
+  .movement {
     display: block;
     text-align: center;
-    justify-content: center;
-     margin-top: 70px;
+    padding: 120px 0px;
+    width: 100%;
+  }
+
+  .about {
+    display: block;
+    text-align: center;
+    padding: 120px 0px;
+    width: 100%;
+
+  }
+
+  .contact {
+    background-color: #1161ed;
     
   }
+  
+   .contact span {
+     display: block;
+     margin: 20px;
+     font-size: 18px;
+     color: lawngreen;
+   }
+   
+.button {
+  background-color: #fff!important;
+  color: #1161ed!important;
+  padding: 10px 20px;
+  display: block;
+  height: 39px;
+  
+  margin-top: 30px;
+  transition: all 0.5s ease-in-out;
+  border: none;
+  font-size: 18px;
+  
+
+}
+.button:hover {
+  background: #fff;
+  box-shadow: 0px 4px 35px -5px #fff;
+  cursor: pointer;
+}
+button:focus {
+  outline: none;
+}
+   
+  .sponsors {
+    padding: 50px 100px;
+    display: block;
+    text-align: center;
+       
+  }
+    
+  .sponsors span {
+    display: inline-block;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 40px;
+  }
+
+  
+  
+  
+   
+  
+   
+  
+   
+  
+   
+  
+  
+  
+   
+    
       
     #caption{
     background: transparent;
@@ -161,41 +145,23 @@
       color: #fff;
       
       }
-      #sponsors{
-        min-height: 100px;
-      background-color: teal;
-      display: block;
-      justify-content: center;
-      text-align: center;
-      margin-top: 70px;
+   
 
-      }
+      
   
   
- #foot{  
+ .foot{  
    min-height: 30px;
-   background-color: #280056;
-   padding: 20px 50px;
+   background-color: darkgreen;
+   padding: 10px 15px;
   
  }
- #contacts{
-   min-height: 100px;
-   background-color: teal;
-   text-align: center;
-
- }
- #contacts span{
-  font-size: 20px;
-  display: inline-flex;
-  margin: 50px;
-  
-}
 
   
- #foot span{
+ .foot span{
   padding: 10px 15px; 
   margin: 10px 25px 0px 0px;
-  background-color:lightseagreen;
+  background-color: #1161ed;
   color: #fff;
   display: inline-flex;
   float: right;
