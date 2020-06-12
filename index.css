@@ -24,28 +24,30 @@
   }
 
   #item1 {
-    background: url(photos/48.jpg);
+    background: url(photos/galaryimage7.jpg);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
+    color: #1161ed;
+
   }
   
   #item2 {
-    background: url(photos/48.jpg);
+    background: url(photos/galaryimage5.jpg);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
   }
   
   #item3 {
-    background: url(photos/48.jpg);
+    background: url(photos/galaryimage13.jpg);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
   }
   
   #item4 {
-    background: url(photos/48.jpg);
+    background: url(photos/galaryimage3.jpg);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
@@ -88,12 +90,12 @@
   }
 
 
-  .contact {
+  #contacts {
     background-color: #1161ed;
     
   }
   
-   .contact span {
+   #contacts span {
      display: block;
      margin: 20px;
      font-size: 18px;
@@ -123,14 +125,14 @@ button:focus {
   outline: none;
 }
    
-  .sponsors {
+  #sponsors {
     padding: 50px 0px;
     display: block;
     text-align: center;
        
   }
     
-  .sponsors span {
+  #sponsors span {
     display: inline-block;
     align-content: center;
     align-items: center;
