@@ -70,7 +70,7 @@
     width: 100%;
     color: darkgreen;
     
-  }
+  } 
  
   #about {
     display: block;
@@ -141,7 +141,7 @@
     background: transparent;
       background-size: cover;
       font-family: sans-serif;
-      margin: 0px 0px 10% 0px;
+      margin: 0px 0px 7% 0px;
       display: block;
       text-align: center;
       justify-content: center;
