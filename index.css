@@ -17,14 +17,16 @@
    
   
   #navright a{
-    margin: 0px 30px 0px 0px;
+    margin: 20px 30px 0px 0px;
     color: cornflowerblue;
     font-family: sans-serif;
     font-size: 20px;
   }
 
+  
+
   #item1 {
-    background: url(photos/galaryimage7.jpg);
+    background: url(photos/adet9.JPG);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
@@ -33,14 +35,14 @@
   }
   
   #item2 {
-    background: url(photos/galaryimage5.jpg);
+    background: url(photos/adet6.JPG);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
   }
   
   #item3 {
-    background: url(photos/galaryimage13.jpg);
+    background: url(photos/adet12.JPG);
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
@@ -59,7 +61,7 @@
     background-size: cover;
     font-family: sans-serif;
     min-height: 550px;
-    opacity: .7;
+    opacity: .5;
   
   } 
 
@@ -106,7 +108,7 @@
   
    #contacts span {
      display: block;
-     margin: 20px;
+     margin: 20px 0px 20px 0px;
      font-size: 20px;
      color: #fff;
    }
@@ -145,30 +147,27 @@
       display: block;
       text-align: center;
       justify-content: center;
-      padding: 50px 10px;
+      padding: 40px 5px;
       color: #fff;
       font-family: sans-serif;
       }
       #caption p {
-        font-size: 25px;
+        font-size: 22px;
         font-family: sans-serif;
       }
    
-
-      
-  
-  
+ 
  .foot{  
    min-height: 30px;
    background-color: #1161ed;
-   padding: 10px 25px;
+   padding: 0px 25px;
   
  }
 
   
  .foot span{
   padding: 10px 15px; 
-  margin: 10px 25px 0px 0px;
+  margin: 10px 25px 10px 0px;
   background-color: #fff;
   color: #1161ed;
   display: inline-flex;
