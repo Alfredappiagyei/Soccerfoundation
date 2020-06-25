@@ -80,8 +80,11 @@
     margin: 120px 0px;
     padding: 120px 20px;
     width: 100%;
-    background-color: green;
+    background-color: cornflowerblue;
 
+  }
+  #abt {
+    box-shadow: 0 10px 20px rgba(0.5,0,0,0.19) , 0 6px 6px rgba(0,0,0,0.23);
   }
   
   #gallery {
@@ -91,17 +94,15 @@
   }
    
   
-  
-
-  
   #gallery img{
-    border: 3px solid #000;
     margin: 0px 30px 20px 0px;
+    box-shadow: 0 10px 20px rgba(0.5,0,0,0.19) , 0 6px 6px rgba(0,0,0,0.23);
+    padding: 10px;
   }
 
 
   #contacts {
-    background-color: green;
+    background-color: cornflowerblue;
     margin: 100px 0px;
     padding: 120px 20px;
   }
@@ -159,7 +160,7 @@
  
  .foot{  
    min-height: 30px;
-   background-color: #1161ed;
+   background-color: cornflowerblue;
    padding: 0px 25px;
   
  }
