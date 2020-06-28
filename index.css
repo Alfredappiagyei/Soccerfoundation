@@ -18,7 +18,7 @@
   
   #navright a{
     margin: 20px 30px 0px 0px;
-    color: cornflowerblue;
+    color: #228ABD;
     font-family: sans-serif;
     font-size: 20px;
   }
@@ -89,6 +89,14 @@
     width: 100%;
   }
   
+
+@media ( max-height: 800px){
+  p {
+    font-size: 20px;
+  }
+}
+
+  
   #gallery {
     display: block;
     text-align: center;
@@ -101,6 +109,17 @@
     box-shadow: 0 10px 20px rgba(0, 0, 1, 0.19) , 0 6px 6px rgba(0,0,0,0.23);
     padding: 10px;
   }
+
+  
+@media ( max-height: 800px){
+  
+  #gallery img{
+    margin: 0px 30px 20px 0px;
+    box-shadow: 0 10px 20px rgba(0, 0, 1, 0.19) , 0 6px 6px rgba(0,0,0,0.23);
+    padding: 10px;
+  
+  }
+}
 
 
   #contacts {
