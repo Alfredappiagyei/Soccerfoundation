@@ -80,7 +80,7 @@
     margin: 120px 0px;
     padding: 120px 20px;
     width: 100%;
-    background-color: royalblue;
+    background-color: #228ABD;
 
   }
   #abt {
@@ -104,7 +104,7 @@
 
 
   #contacts {
-    background-color: royalblue;
+    background-color: #228ABD;
     margin: 100px 0px;
     padding: 120px 20px;
   }
@@ -162,7 +162,7 @@
  
  .foot{  
    min-height: 30px;
-   background-color: royalblue;
+   background-color: #228ABD;
    padding: 0px 25px;
   
  }
@@ -172,7 +172,7 @@
   padding: 10px 15px; 
   margin: 10px 25px 10px 0px;
   background-color: #fff;
-  color: #1161ed;
+  color: #228ABD;
   display: inline-flex;
   float: right;
 
