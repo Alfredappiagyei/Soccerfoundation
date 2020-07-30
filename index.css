@@ -312,7 +312,15 @@ body{
   color: #fff;
   display: inline-flex;
   float: right;
-  font-size: 23px;
+  font-size: 20px;
+
+}
+
+
+footer h4{ 
+  color: #fff;
+  font-size: 19px;
+  font-family: 'Open Sans', sans-serif;
 
 }
  
