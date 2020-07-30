@@ -172,6 +172,10 @@ body{
     padding: 30px;
   }
 
+  .about img {
+    width: 100%;
+  }
+   
   
   
 
@@ -216,6 +220,7 @@ body{
   .contacts img {
     width: 100%;
   }
+   
   #contactimage{
     padding: 30px;
   }
