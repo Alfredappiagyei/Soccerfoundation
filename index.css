@@ -42,6 +42,7 @@ body {
   padding: 0px;
   width: auto;
 } 
+ 
 
 
 /*-------------------------------------
@@ -215,6 +216,30 @@ body {
   transform: scale(1);
 }
 
+
+/*.........................
+MORE GALLERY BUTTON SECTION 
+--------------------------*/
+
+.more_gallery  i{
+  font-size: 40px;
+  position: relative;
+  float: right;
+  margin-right: 20px;
+  text-decoration: none;
+  color: blue;
+} 
+.more_gallery  i:hover{
+  color: green;
+} 
+
+.more_gallery  i::after{
+  content: "View more";
+  font-size: 20px;
+  color:green ;
+} 
+
+
 /*-------------------------------------
              CONTACTS
  -------------------------------------*/
@@ -326,12 +351,15 @@ footer h4 {
   font-family: "Open Sans", sans-serif;
 }
 
+ 
+
 /*-------------------------------------
           ANIMATION
  -------------------------------------*/
 
 .js--wp-1,
 .js--wp-2,
+j.s--wp-3,
 .js--wp-4 {
   opacity: 0;
   -webkit-animation-duration: 1s;
@@ -340,6 +368,7 @@ footer h4 {
 
 .js--wp-1.animated,
 .js--wp-2.animated,
+.js--wp-3.animated,
 .js--wp-4.animated {
   opacity: 1;
 }
