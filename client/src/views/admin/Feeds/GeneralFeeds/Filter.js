@@ -62,10 +62,9 @@ export default function Filter ({ filters, setFilters,getFeeds }) {
           <Item onClick={()=> {
             submitRef.current.handleSubmit()
           }}>
-          {/* <Button  className='w-100' type='submit' color='primary'>
+          <Button  className='w-100' type='submit' color='primary'>
             Apply
-          </Button> */}
-           <button type="submit" class="btn  btn-default">Apply</button>
+          </Button>
           </Item>
        
         </Menu>
