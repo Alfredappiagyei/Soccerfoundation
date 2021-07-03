@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ripple: Check My Worth</title>
+    <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes_birman.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css" integrity="sha512-42kB9yDlYiCEfx2xVwq0q7hT4uf26FUgSIZBK8uiaEnTdShXjwr8Ip1V4xGJMg3mHkUt9nNuTDxunHF0/EgxLQ==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">    <link rel="stylesheet" href="/assets/css/main.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.4/noty.min.css" integrity="sha512-0p3K0H3S6Q4bEWZ/WmC94Tgit2ular2/n0ESdfEX8l172YyQj8re1Wu9s/HT9T/T2osUw5Gx/6pAZNk3UKbESw==" crossorigin="anonymous" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+</head>
+<style>
+
+#nprogress .bar{
+    background-color: white !important;
+}
+
+#nprogress .spinner-icon{
+    border-left-color: white !important;
+    border-top-color: white !important
+}
+</style>
+
+<body>
+
+    <div class="worth-calculator">
+        <div class="wrapper">
+            <!-- Header -->
+            <div class="header">
+            <div class="row">
+              <div class="col-4 col-md-4 col-sm-5 col-xs-7">
+              <a href="https://useripple.com">
+              <img src="assets/images/ripple-full-logo.png" alt="logo" class="img-fluid  d-none d-xs-none d-xs-none d-sm-none d-md-block d-lg-block d-xl-block"
+                  id="calculator-logo" style="top: 4rem; left: 4rem;" />
+              <img src="assets/images/logo.png" alt="logo" class="img-fluid d-xs-block d-sm-block d-md-none d-lg-none d-xl-none "
+                    />
+              </a>
+              </div>
+              <div class="col-8 col-md-8 col-sm-7 col-xs-5">
+
+                <!--  -->
+                <h2 class="heading text-left">Check My Worth</h2>
+                <!--  -->
+                </div>
+            </div>
+            <div class="row align-items-center mb-0">
+              <div class="col-12 mb-0">
+                <p class="section-gray-text text-center mb-0" id="sub-heading-calculator">
+                  This tool was developed to provide earning potential guidelines for African influencers.
+                </p>
+              </div>
+            </div>
+                <div class="row">
+                  <div class=" col-lg-12 center-block">
+                        <form class="search-wrapper mt-4 mx-auto" id="calculator">
+                        {{ csrfField() }}
+                          <!--  -->
+                          <img src="assets/images/r-instagram.svg" alt="instagram" class="img-fluid ml-3" />
+                          <!--  -->
+                          <input required name="handle" type="text" placeholder="eg. beyonce [omit '@']" />
+                          <!--  -->
+                          <button type="submit">
+                              <img src="assets/images/search-icon.svg" alt="search" class="img-fluid" />
+                          </button>
+                          <!--  -->
+                        </form>
+
+                    <div class="text-center mt-4 loader" style="display:none" id="loader">
+                        <button class="btn btn-light loading-text-color" type="button" disabled>
+                            <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                            analysing page
+                          </button>
+                  </div>
+              </div>
+
+            </div>
+
+                <!--  -->
+            </div>
+            <!--  -->
+
+            <!-- Body -->
+            <div class="body mainCard" style="display:none" >
+                <div class="container-fluid my-0" >
+                    <div class="row">
+                        <div class="col-12 text-center">
+                            <div class="influencer-category " class="col-12">
+                                <h4 >Congratulations, you are a  <span id="category"></span> influencer!</h4> 
+                            </div>
+                            <div class="influencer-category " class="col-12 ">
+                                <h5 >Your estimated earnings per post is:  <span id="estimatedEarning1"></span></h5> 
+                            </div>
+                        </div>
+                     </div>
+                </div>
+                
+                <div class="container-fluid mt-4">
+                
+                    <div class="row align-items-end">
+                        <!--  -->
+                        <div class="col-4 text-center">
+                          <a id="visitProfileUrl" target="blank" rel="noopener" href="#" class="profile-link">
+                            <img id="profilePicture" src="assets/images/img-girl-worth.png" alt="img"
+                                class="img-fluid d-block mx-auto mb-0" />
+                            Visit Profile</a>
+                        </div>
+                        <!--  -->
+                        <div class="col-4 text-center border-left-w">
+                            <img src="assets/images/calculator/followers.png" alt="icon"
+                                class="img-fluid d-block mx-auto mb-3 engagement-block-icons" />
+                            <div class="main-text">Followers</div>
+                            <div class="text-values" id="followerCount" ></div>
+                        </div>
+                        <!--  -->
+                        <div class="col-4 text-center border-left-w">
+                            <img src="assets/images/calculator/engagement.png" alt="icon" class="img-fluid engagement-block-icons d-block mx-auto mb-3" />
+                            <div class="main-text">Engagement Rate:<br/> <span id="engagementScore"></span></div>
+                            <div class="text-values" id="engagementRateCount"></div>
+                        </div>
+                        <!--  -->
+                    </div>
+                </div>
+
+                <!--  -->
+                <div class="container-fluid my-5 border-y">
+                    <div class="row align-items-center">
+                        <!--  -->
+                        <div class="col-4 text-center ">
+                            <img src="assets/images/calculator/like.png" alt="icon" class="img-fluid engagement-block-icons d-block mx-auto mb-3" />
+                            <div class="main-text">Average Post Likes</div>
+                            <div class="text-values" id="averageLikesCount"></div>
+                        </div>
+                        <div class="col-4 text-center  border-left-w">
+                            <img src="assets/images/calculator/comments.png" alt="icon" class="img-fluid engagement-block-icons d-block mx-auto mb-3" />
+                            <div class="main-text">Average Post Comments</div>
+                            <div class="text-values" id="averageComments"></div>
+                        </div>
+                        <!--  -->
+                        <div class="col-4 text-center border-left-w">
+                            <div class="main-text">Estimated Earning Per Post</div>
+                            <div class="text-values" id="estimatedEarning2">$0- $0</div>
+                        </div>
+                        <!--  -->
+                    </div>
+                </div>
+
+                 <!--  -->
+                <div class="container-fluid px-0">
+                    <div class="row mt-3">
+                        <!--  -->
+                        <div class="col-lg-6" id="mostLikedMedia" style="display:none">
+                            <div class="most-media-wrapper">
+                                <div class="head-area">
+                                    <div class="text-center main-text">Most liked Media  <span class="sinceDate"> </span> </div>
+                                </div>
+                                <div class="body-area"></div>
+                            </div>
+                        </div>
+                        <!--  -->
+                        <!--  -->
+                        <div class="col-lg-6" id="mostCommentedMedia" style="display:none">
+                            <div class="most-media-wrapper">
+                                <div class="head-area">
+                                    <div class="text-center main-text">Most Commented Media <span class="sinceDate"> </span> </div>
+                                </div>
+                                <div class="body-area">
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--  -->
+                    </div>
+                </div>
+
+                <!--  -->
+                {{--  <a href="#" class="view-full-report-btn">View Full Report</a>  --}}
+                <!--  -->
+
+                <div class="container-fluid my-4" >
+                    <div class="row">
+                        <div id="sharedworth" class="col-12 text-center">
+                            <h4 class= "section-gray-text">Share your worth</h4>
+                            
+                            <div class="facebook">Facebook</div>
+                            <div class="twitter">Twitter</div>
+                            <!--<button onclick="myFunction()" id="copy-shareable-link">copy link</button>-->
+                            
+                        </div>
+                     </div>
+                </div>
+
+            </div>
+            <!--  -->
+        </div>
+    </div>
+
+    <!-- JS Files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js" integrity="sha512-quHCp3WbBNkwLfYUMd+KwBAgpVukJu5MncuQaWXgCrfgcxCJAq/fo+oqrRKOj+UKEmyMCG3tb8RB63W+EmrOBg==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js" integrity="sha512-bUg5gaqBVaXIJNuebamJ6uex//mjxPk8kljQTdM1SwkNrQD7pjS+PerntUSD+QRWPNJ0tq54/x4zRV8bLrLhZg==" crossorigin="anonymous"></script>
+    <script src="assets/js/jquery-3.5.1.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/2.0.6/numeral.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/noty/3.1.4/noty.min.js" integrity="sha512-lOrm9FgT1LKOJRUXF3tp6QaMorJftUjowOWiDcG5GFZ/q7ukof19V0HKx/GWzXCdt9zYju3/KhBNdCLzK8b90Q==" crossorigin="anonymous"></script>
+    <script src="assets/js/calculator.js"></script>
+
+    <!-- JS Files End -->
+</body>
+
+</html>

@@ -1,0 +1,1992 @@
+[
+    {
+        "code": "AD",
+        "emoji": "🇦🇩",
+        "unicode": "U+1F1E6 U+1F1E9",
+        "name": "Andorra",
+        "value": "Andorra",
+        "dialCode": "+376"
+    },
+    {
+        "code": "AE",
+        "emoji": "🇦🇪",
+        "unicode": "U+1F1E6 U+1F1EA",
+        "name": "United Arab Emirates",
+        "value": "United Arab Emirates",
+        "dialCode": "+971"
+    },
+    {
+        "code": "AF",
+        "emoji": "🇦🇫",
+        "unicode": "U+1F1E6 U+1F1EB",
+        "name": "Afghanistan",
+        "value": "Afghanistan",
+        "dialCode": "+93"
+    },
+    {
+        "code": "AG",
+        "emoji": "🇦🇬",
+        "unicode": "U+1F1E6 U+1F1EC",
+        "name": "Antigua and Barbuda",
+        "value": "Antigua and Barbuda",
+        "dialCode": "+1268"
+    },
+    {
+        "code": "AI",
+        "emoji": "🇦🇮",
+        "unicode": "U+1F1E6 U+1F1EE",
+        "name": "Anguilla",
+        "value": "Anguilla",
+        "dialCode": "+1 264"
+    },
+    {
+        "code": "AL",
+        "emoji": "🇦🇱",
+        "unicode": "U+1F1E6 U+1F1F1",
+        "name": "Albania",
+        "value": "Albania",
+        "dialCode": "+355"
+    },
+    {
+        "code": "AM",
+        "emoji": "🇦🇲",
+        "unicode": "U+1F1E6 U+1F1F2",
+        "name": "Armenia",
+        "value": "Armenia",
+        "dialCode": "+374"
+    },
+    {
+        "code": "AO",
+        "emoji": "🇦🇴",
+        "unicode": "U+1F1E6 U+1F1F4",
+        "name": "Angola",
+        "value": "Angola",
+        "dialCode": "+244"
+    },
+    {
+        "code": "AQ",
+        "emoji": "🇦🇶",
+        "unicode": "U+1F1E6 U+1F1F6",
+        "name": "Antarctica",
+        "value": "Antarctica",
+        "dialCode": null
+    },
+    {
+        "code": "AR",
+        "emoji": "🇦🇷",
+        "unicode": "U+1F1E6 U+1F1F7",
+        "name": "Argentina",
+        "value": "Argentina",
+        "dialCode": "+54"
+    },
+    {
+        "code": "AS",
+        "emoji": "🇦🇸",
+        "unicode": "U+1F1E6 U+1F1F8",
+        "name": "American Samoa",
+        "value": "American Samoa",
+        "dialCode": "+1 684"
+    },
+    {
+        "code": "AT",
+        "emoji": "🇦🇹",
+        "unicode": "U+1F1E6 U+1F1F9",
+        "name": "Austria",
+        "value": "Austria",
+        "dialCode": "+43"
+    },
+    {
+        "code": "AU",
+        "emoji": "🇦🇺",
+        "unicode": "U+1F1E6 U+1F1FA",
+        "name": "Australia",
+        "value": "Australia",
+        "dialCode": "+61"
+    },
+    {
+        "code": "AW",
+        "emoji": "🇦🇼",
+        "unicode": "U+1F1E6 U+1F1FC",
+        "name": "Aruba",
+        "value": "Aruba",
+        "dialCode": "+297"
+    },
+    {
+        "code": "AX",
+        "emoji": "🇦🇽",
+        "unicode": "U+1F1E6 U+1F1FD",
+        "name": "Åland Islands",
+        "value": "Åland Islands",
+        "dialCode": ""
+    },
+    {
+        "code": "AZ",
+        "emoji": "🇦🇿",
+        "unicode": "U+1F1E6 U+1F1FF",
+        "name": "Azerbaijan",
+        "value": "Azerbaijan",
+        "dialCode": "+994"
+    },
+    {
+        "code": "BA",
+        "emoji": "🇧🇦",
+        "unicode": "U+1F1E7 U+1F1E6",
+        "name": "Bosnia and Herzegovina",
+        "value": "Bosnia and Herzegovina",
+        "dialCode": "+387"
+    },
+    {
+        "code": "BB",
+        "emoji": "🇧🇧",
+        "unicode": "U+1F1E7 U+1F1E7",
+        "name": "Barbados",
+        "value": "Barbados",
+        "dialCode": "+1 246"
+    },
+    {
+        "code": "BD",
+        "emoji": "🇧🇩",
+        "unicode": "U+1F1E7 U+1F1E9",
+        "name": "Bangladesh",
+        "value": "Bangladesh",
+        "dialCode": "+880"
+    },
+    {
+        "code": "BE",
+        "emoji": "🇧🇪",
+        "unicode": "U+1F1E7 U+1F1EA",
+        "name": "Belgium",
+        "value": "Belgium",
+        "dialCode": "+32"
+    },
+    {
+        "code": "BF",
+        "emoji": "🇧🇫",
+        "unicode": "U+1F1E7 U+1F1EB",
+        "name": "Burkina Faso",
+        "value": "Burkina Faso",
+        "dialCode": "+226"
+    },
+    {
+        "code": "BG",
+        "emoji": "🇧🇬",
+        "unicode": "U+1F1E7 U+1F1EC",
+        "name": "Bulgaria",
+        "value": "Bulgaria",
+        "dialCode": "+359"
+    },
+    {
+        "code": "BH",
+        "emoji": "🇧🇭",
+        "unicode": "U+1F1E7 U+1F1ED",
+        "name": "Bahrain",
+        "value": "Bahrain",
+        "dialCode": "+973"
+    },
+    {
+        "code": "BI",
+        "emoji": "🇧🇮",
+        "unicode": "U+1F1E7 U+1F1EE",
+        "name": "Burundi",
+        "value": "Burundi",
+        "dialCode": "+257"
+    },
+    {
+        "code": "BJ",
+        "emoji": "🇧🇯",
+        "unicode": "U+1F1E7 U+1F1EF",
+        "name": "Benin",
+        "value": "Benin",
+        "dialCode": "+229"
+    },
+    {
+        "code": "BL",
+        "emoji": "🇧🇱",
+        "unicode": "U+1F1E7 U+1F1F1",
+        "name": "Saint Barthélemy",
+        "value": "Saint Barthélemy",
+        "dialCode": "+590"
+    },
+    {
+        "code": "BM",
+        "emoji": "🇧🇲",
+        "unicode": "U+1F1E7 U+1F1F2",
+        "name": "Bermuda",
+        "value": "Bermuda",
+        "dialCode": "+1 441"
+    },
+    {
+        "code": "BN",
+        "emoji": "🇧🇳",
+        "unicode": "U+1F1E7 U+1F1F3",
+        "name": "Brunei Darussalam",
+        "value": "Brunei Darussalam",
+        "dialCode": "+673"
+    },
+    {
+        "code": "BO",
+        "emoji": "🇧🇴",
+        "unicode": "U+1F1E7 U+1F1F4",
+        "name": "Bolivia",
+        "value": "Bolivia",
+        "dialCode": "+591"
+    },
+    {
+        "code": "BQ",
+        "emoji": "🇧🇶",
+        "unicode": "U+1F1E7 U+1F1F6",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "value": "Bonaire, Sint Eustatius and Saba"
+    },
+    {
+        "code": "BR",
+        "emoji": "🇧🇷",
+        "unicode": "U+1F1E7 U+1F1F7",
+        "name": "Brazil",
+        "value": "Brazil",
+        "dialCode": "+55"
+    },
+    {
+        "code": "BS",
+        "emoji": "🇧🇸",
+        "unicode": "U+1F1E7 U+1F1F8",
+        "name": "Bahamas",
+        "value": "Bahamas",
+        "dialCode": "+1 242"
+    },
+    {
+        "code": "BT",
+        "emoji": "🇧🇹",
+        "unicode": "U+1F1E7 U+1F1F9",
+        "name": "Bhutan",
+        "value": "Bhutan",
+        "dialCode": "+975"
+    },
+    {
+        "code": "BV",
+        "emoji": "🇧🇻",
+        "unicode": "U+1F1E7 U+1F1FB",
+        "name": "Bouvet Island",
+        "value": "Bouvet Island"
+    },
+    {
+        "code": "BW",
+        "emoji": "🇧🇼",
+        "unicode": "U+1F1E7 U+1F1FC",
+        "name": "Botswana",
+        "value": "Botswana",
+        "dialCode": "+267"
+    },
+    {
+        "code": "BY",
+        "emoji": "🇧🇾",
+        "unicode": "U+1F1E7 U+1F1FE",
+        "name": "Belarus",
+        "value": "Belarus",
+        "dialCode": "+375"
+    },
+    {
+        "code": "BZ",
+        "emoji": "🇧🇿",
+        "unicode": "U+1F1E7 U+1F1FF",
+        "name": "Belize",
+        "value": "Belize",
+        "dialCode": "+501"
+    },
+    {
+        "code": "CA",
+        "emoji": "🇨🇦",
+        "unicode": "U+1F1E8 U+1F1E6",
+        "name": "Canada",
+        "value": "Canada",
+        "dialCode": "+1"
+    },
+    {
+        "code": "CC",
+        "emoji": "🇨🇨",
+        "unicode": "U+1F1E8 U+1F1E8",
+        "name": "Cocos (Keeling) Islands",
+        "value": "Cocos (Keeling) Islands",
+        "dialCode": "+61"
+    },
+    {
+        "code": "CD",
+        "emoji": "🇨🇩",
+        "unicode": "U+1F1E8 U+1F1E9",
+        "name": "Congo",
+        "value": "Congo",
+        "dialCode": "+243"
+    },
+    {
+        "code": "CF",
+        "emoji": "🇨🇫",
+        "unicode": "U+1F1E8 U+1F1EB",
+        "name": "Central African Republic",
+        "value": "Central African Republic",
+        "dialCode": "+236"
+    },
+    {
+        "code": "CH",
+        "emoji": "🇨🇭",
+        "unicode": "U+1F1E8 U+1F1ED",
+        "name": "Switzerland",
+        "value": "Switzerland",
+        "dialCode": "+41"
+    },
+    {
+        "code": "CI",
+        "emoji": "🇨🇮",
+        "unicode": "U+1F1E8 U+1F1EE",
+        "name": "Côte D'Ivoire",
+        "value": "Côte D'Ivoire",
+        "dialCode": "+225"
+    },
+    {
+        "code": "CK",
+        "emoji": "🇨🇰",
+        "unicode": "U+1F1E8 U+1F1F0",
+        "name": "Cook Islands",
+        "value": "Cook Islands",
+        "dialCode": "+682"
+    },
+    {
+        "code": "CL",
+        "emoji": "🇨🇱",
+        "unicode": "U+1F1E8 U+1F1F1",
+        "name": "Chile",
+        "value": "Chile",
+        "dialCode": "+56"
+    },
+    {
+        "code": "CM",
+        "emoji": "🇨🇲",
+        "unicode": "U+1F1E8 U+1F1F2",
+        "name": "Cameroon",
+        "value": "Cameroon",
+        "dialCode": "+237"
+    },
+    {
+        "code": "CN",
+        "emoji": "🇨🇳",
+        "unicode": "U+1F1E8 U+1F1F3",
+        "name": "China",
+        "value": "China",
+        "dialCode": "+86"
+    },
+    {
+        "code": "CO",
+        "emoji": "🇨🇴",
+        "unicode": "U+1F1E8 U+1F1F4",
+        "name": "Colombia",
+        "value": "Colombia",
+        "dialCode": "+57"
+    },
+    {
+        "code": "CR",
+        "emoji": "🇨🇷",
+        "unicode": "U+1F1E8 U+1F1F7",
+        "name": "Costa Rica",
+        "value": "Costa Rica",
+        "dialCode": "+506"
+    },
+    {
+        "code": "CU",
+        "emoji": "🇨🇺",
+        "unicode": "U+1F1E8 U+1F1FA",
+        "name": "Cuba",
+        "value": "Cuba",
+        "dialCode": "+53"
+    },
+    {
+        "code": "CV",
+        "emoji": "🇨🇻",
+        "unicode": "U+1F1E8 U+1F1FB",
+        "name": "Cape Verde",
+        "value": "Cape Verde",
+        "dialCode": "+238"
+    },
+    {
+        "code": "CW",
+        "emoji": "🇨🇼",
+        "unicode": "U+1F1E8 U+1F1FC",
+        "name": "Curaçao",
+        "value": "Curaçao"
+    },
+    {
+        "code": "CX",
+        "emoji": "🇨🇽",
+        "unicode": "U+1F1E8 U+1F1FD",
+        "name": "Christmas Island",
+        "value": "Christmas Island",
+        "dialCode": "+61"
+    },
+    {
+        "code": "CY",
+        "emoji": "🇨🇾",
+        "unicode": "U+1F1E8 U+1F1FE",
+        "name": "Cyprus",
+        "value": "Cyprus",
+        "dialCode": "+537"
+    },
+    {
+        "code": "CZ",
+        "emoji": "🇨🇿",
+        "unicode": "U+1F1E8 U+1F1FF",
+        "name": "Czech Republic",
+        "value": "Czech Republic",
+        "dialCode": "+420"
+    },
+    {
+        "code": "DE",
+        "emoji": "🇩🇪",
+        "unicode": "U+1F1E9 U+1F1EA",
+        "name": "Germany",
+        "value": "Germany",
+        "dialCode": "+49"
+    },
+    {
+        "code": "DJ",
+        "emoji": "🇩🇯",
+        "unicode": "U+1F1E9 U+1F1EF",
+        "name": "Djibouti",
+        "value": "Djibouti",
+        "dialCode": "+253"
+    },
+    {
+        "code": "DK",
+        "emoji": "🇩🇰",
+        "unicode": "U+1F1E9 U+1F1F0",
+        "name": "Denmark",
+        "value": "Denmark",
+        "dialCode": "+45"
+    },
+    {
+        "code": "DM",
+        "emoji": "🇩🇲",
+        "unicode": "U+1F1E9 U+1F1F2",
+        "name": "Dominica",
+        "value": "Dominica",
+        "dialCode": "+1 767"
+    },
+    {
+        "code": "DO",
+        "emoji": "🇩🇴",
+        "unicode": "U+1F1E9 U+1F1F4",
+        "name": "Dominican Republic",
+        "value": "Dominican Republic",
+        "dialCode": "+1 849"
+    },
+    {
+        "code": "DZ",
+        "emoji": "🇩🇿",
+        "unicode": "U+1F1E9 U+1F1FF",
+        "name": "Algeria",
+        "value": "Algeria",
+        "dialCode": "+213"
+    },
+    {
+        "code": "EC",
+        "emoji": "🇪🇨",
+        "unicode": "U+1F1EA U+1F1E8",
+        "name": "Ecuador",
+        "value": "Ecuador",
+        "dialCode": "+593"
+    },
+    {
+        "code": "EE",
+        "emoji": "🇪🇪",
+        "unicode": "U+1F1EA U+1F1EA",
+        "name": "Estonia",
+        "value": "Estonia",
+        "dialCode": "+372"
+    },
+    {
+        "code": "EG",
+        "emoji": "🇪🇬",
+        "unicode": "U+1F1EA U+1F1EC",
+        "name": "Egypt",
+        "value": "Egypt",
+        "dialCode": "+20"
+    },
+    {
+        "code": "EH",
+        "emoji": "🇪🇭",
+        "unicode": "U+1F1EA U+1F1ED",
+        "name": "Western Sahara",
+        "value": "Western Sahara"
+    },
+    {
+        "code": "ER",
+        "emoji": "🇪🇷",
+        "unicode": "U+1F1EA U+1F1F7",
+        "name": "Eritrea",
+        "value": "Eritrea",
+        "dialCode": "+291"
+    },
+    {
+        "code": "ES",
+        "emoji": "🇪🇸",
+        "unicode": "U+1F1EA U+1F1F8",
+        "name": "Spain",
+        "value": "Spain",
+        "dialCode": "+34"
+    },
+    {
+        "code": "ET",
+        "emoji": "🇪🇹",
+        "unicode": "U+1F1EA U+1F1F9",
+        "name": "Ethiopia",
+        "value": "Ethiopia",
+        "dialCode": "+251"
+    },
+    {
+        "code": "EU",
+        "emoji": "🇪🇺",
+        "unicode": "U+1F1EA U+1F1FA",
+        "name": "European Union",
+        "value": "European Union"
+    },
+    {
+        "code": "FI",
+        "emoji": "🇫🇮",
+        "unicode": "U+1F1EB U+1F1EE",
+        "name": "Finland",
+        "value": "Finland",
+        "dialCode": "+358"
+    },
+    {
+        "code": "FJ",
+        "emoji": "🇫🇯",
+        "unicode": "U+1F1EB U+1F1EF",
+        "name": "Fiji",
+        "value": "Fiji",
+        "dialCode": "+679"
+    },
+    {
+        "code": "FK",
+        "emoji": "🇫🇰",
+        "unicode": "U+1F1EB U+1F1F0",
+        "name": "Falkland Islands (Malvinas)",
+        "value": "Falkland Islands (Malvinas)",
+        "dialCode": "+500"
+    },
+    {
+        "code": "FM",
+        "emoji": "🇫🇲",
+        "unicode": "U+1F1EB U+1F1F2",
+        "name": "Micronesia",
+        "value": "Micronesia",
+        "dialCode": "+691"
+    },
+    {
+        "code": "FO",
+        "emoji": "🇫🇴",
+        "unicode": "U+1F1EB U+1F1F4",
+        "name": "Faroe Islands",
+        "value": "Faroe Islands",
+        "dialCode": "+298"
+    },
+    {
+        "code": "FR",
+        "emoji": "🇫🇷",
+        "unicode": "U+1F1EB U+1F1F7",
+        "name": "France",
+        "value": "France",
+        "dialCode": "+33"
+    },
+    {
+        "code": "GA",
+        "emoji": "🇬🇦",
+        "unicode": "U+1F1EC U+1F1E6",
+        "name": "Gabon",
+        "value": "Gabon",
+        "dialCode": "+241"
+    },
+    {
+        "code": "GB",
+        "emoji": "🇬🇧",
+        "unicode": "U+1F1EC U+1F1E7",
+        "name": "United Kingdom",
+        "value": "United Kingdom",
+        "dialCode": "+44"
+    },
+    {
+        "code": "GD",
+        "emoji": "🇬🇩",
+        "unicode": "U+1F1EC U+1F1E9",
+        "name": "Grenada",
+        "value": "Grenada",
+        "dialCode": "+1 473"
+    },
+    {
+        "code": "GE",
+        "emoji": "🇬🇪",
+        "unicode": "U+1F1EC U+1F1EA",
+        "name": "Georgia",
+        "value": "Georgia",
+        "dialCode": "+995"
+    },
+    {
+        "code": "GF",
+        "emoji": "🇬🇫",
+        "unicode": "U+1F1EC U+1F1EB",
+        "name": "French Guiana",
+        "value": "French Guiana",
+        "dialCode": "+594"
+    },
+    {
+        "code": "GG",
+        "emoji": "🇬🇬",
+        "unicode": "U+1F1EC U+1F1EC",
+        "name": "Guernsey",
+        "value": "Guernsey",
+        "dialCode": "+44"
+    },
+    {
+        "code": "GH",
+        "emoji": "🇬🇭",
+        "unicode": "U+1F1EC U+1F1ED",
+        "name": "Ghana",
+        "value": "Ghana",
+        "dialCode": "+233"
+    },
+    {
+        "code": "GI",
+        "emoji": "🇬🇮",
+        "unicode": "U+1F1EC U+1F1EE",
+        "name": "Gibraltar",
+        "value": "Gibraltar",
+        "dialCode": "+350"
+    },
+    {
+        "code": "GL",
+        "emoji": "🇬🇱",
+        "unicode": "U+1F1EC U+1F1F1",
+        "name": "Greenland",
+        "value": "Greenland",
+        "dialCode": "+299"
+    },
+    {
+        "code": "GM",
+        "emoji": "🇬🇲",
+        "unicode": "U+1F1EC U+1F1F2",
+        "name": "Gambia",
+        "value": "Gambia",
+        "dialCode": "+220"
+    },
+    {
+        "code": "GN",
+        "emoji": "🇬🇳",
+        "unicode": "U+1F1EC U+1F1F3",
+        "name": "Guinea",
+        "value": "Guinea",
+        "dialCode": "+224"
+    },
+    {
+        "code": "GP",
+        "emoji": "🇬🇵",
+        "unicode": "U+1F1EC U+1F1F5",
+        "name": "Guadeloupe",
+        "value": "Guadeloupe",
+        "dialCode": "+590"
+    },
+    {
+        "code": "GQ",
+        "emoji": "🇬🇶",
+        "unicode": "U+1F1EC U+1F1F6",
+        "name": "Equatorial Guinea",
+        "value": "Equatorial Guinea",
+        "dialCode": "+240"
+    },
+    {
+        "code": "GR",
+        "emoji": "🇬🇷",
+        "unicode": "U+1F1EC U+1F1F7",
+        "name": "Greece",
+        "value": "Greece",
+        "dialCode": "+30"
+    },
+    {
+        "code": "GS",
+        "emoji": "🇬🇸",
+        "unicode": "U+1F1EC U+1F1F8",
+        "name": "South Georgia",
+        "value": "South Georgia",
+        "dialCode": "+500"
+    },
+    {
+        "code": "GT",
+        "emoji": "🇬🇹",
+        "unicode": "U+1F1EC U+1F1F9",
+        "name": "Guatemala",
+        "value": "Guatemala",
+        "dialCode": "+502"
+    },
+    {
+        "code": "GU",
+        "emoji": "🇬🇺",
+        "unicode": "U+1F1EC U+1F1FA",
+        "name": "Guam",
+        "value": "Guam",
+        "dialCode": "+1 671"
+    },
+    {
+        "code": "GW",
+        "emoji": "🇬🇼",
+        "unicode": "U+1F1EC U+1F1FC",
+        "name": "Guinea-Bissau",
+        "value": "Guinea-Bissau",
+        "dialCode": "+245"
+    },
+    {
+        "code": "GY",
+        "emoji": "🇬🇾",
+        "unicode": "U+1F1EC U+1F1FE",
+        "name": "Guyana",
+        "value": "Guyana",
+        "dialCode": "+595"
+    },
+    {
+        "code": "HK",
+        "emoji": "🇭🇰",
+        "unicode": "U+1F1ED U+1F1F0",
+        "name": "Hong Kong",
+        "value": "Hong Kong",
+        "dialCode": "+852"
+    },
+    {
+        "code": "HM",
+        "emoji": "🇭🇲",
+        "unicode": "U+1F1ED U+1F1F2",
+        "name": "Heard Island and Mcdonald Islands",
+        "value": "Heard Island and Mcdonald Islands"
+    },
+    {
+        "code": "HN",
+        "emoji": "🇭🇳",
+        "unicode": "U+1F1ED U+1F1F3",
+        "name": "Honduras",
+        "value": "Honduras",
+        "dialCode": "+504"
+    },
+    {
+        "code": "HR",
+        "emoji": "🇭🇷",
+        "unicode": "U+1F1ED U+1F1F7",
+        "name": "Croatia",
+        "value": "Croatia",
+        "dialCode": "+385"
+    },
+    {
+        "code": "HT",
+        "emoji": "🇭🇹",
+        "unicode": "U+1F1ED U+1F1F9",
+        "name": "Haiti",
+        "value": "Haiti",
+        "dialCode": "+509"
+    },
+    {
+        "code": "HU",
+        "emoji": "🇭🇺",
+        "unicode": "U+1F1ED U+1F1FA",
+        "name": "Hungary",
+        "value": "Hungary",
+        "dialCode": "+36"
+    },
+    {
+        "code": "ID",
+        "emoji": "🇮🇩",
+        "unicode": "U+1F1EE U+1F1E9",
+        "name": "Indonesia",
+        "value": "Indonesia",
+        "dialCode": "+62"
+    },
+    {
+        "code": "IE",
+        "emoji": "🇮🇪",
+        "unicode": "U+1F1EE U+1F1EA",
+        "name": "Ireland",
+        "value": "Ireland",
+        "dialCode": "+353"
+    },
+    {
+        "code": "IL",
+        "emoji": "🇮🇱",
+        "unicode": "U+1F1EE U+1F1F1",
+        "name": "Israel",
+        "value": "Israel",
+        "dialCode": "+972"
+    },
+    {
+        "code": "IM",
+        "emoji": "🇮🇲",
+        "unicode": "U+1F1EE U+1F1F2",
+        "name": "Isle of Man",
+        "value": "Isle of Man",
+        "dialCode": "+44"
+    },
+    {
+        "code": "IN",
+        "emoji": "🇮🇳",
+        "unicode": "U+1F1EE U+1F1F3",
+        "name": "India",
+        "value": "India",
+        "dialCode": "+91"
+    },
+    {
+        "code": "IO",
+        "emoji": "🇮🇴",
+        "unicode": "U+1F1EE U+1F1F4",
+        "name": "British Indian Ocean Territory",
+        "value": "British Indian Ocean Territory",
+        "dialCode": "+246"
+    },
+    {
+        "code": "IQ",
+        "emoji": "🇮🇶",
+        "unicode": "U+1F1EE U+1F1F6",
+        "name": "Iraq",
+        "value": "Iraq",
+        "dialCode": "+964"
+    },
+    {
+        "code": "IR",
+        "emoji": "🇮🇷",
+        "unicode": "U+1F1EE U+1F1F7",
+        "name": "Iran",
+        "value": "Iran",
+        "dialCode": "+98"
+    },
+    {
+        "code": "IS",
+        "emoji": "🇮🇸",
+        "unicode": "U+1F1EE U+1F1F8",
+        "name": "Iceland",
+        "value": "Iceland",
+        "dialCode": "+354"
+    },
+    {
+        "code": "IT",
+        "emoji": "🇮🇹",
+        "unicode": "U+1F1EE U+1F1F9",
+        "name": "Italy",
+        "value": "Italy",
+        "dialCode": "+39"
+    },
+    {
+        "code": "JE",
+        "emoji": "🇯🇪",
+        "unicode": "U+1F1EF U+1F1EA",
+        "name": "Jersey",
+        "value": "Jersey",
+        "dialCode": "+44"
+    },
+    {
+        "code": "JM",
+        "emoji": "🇯🇲",
+        "unicode": "U+1F1EF U+1F1F2",
+        "name": "Jamaica",
+        "value": "Jamaica",
+        "dialCode": "+1 876"
+    },
+    {
+        "code": "JO",
+        "emoji": "🇯🇴",
+        "unicode": "U+1F1EF U+1F1F4",
+        "name": "Jordan",
+        "value": "Jordan",
+        "dialCode": "+962"
+    },
+    {
+        "code": "JP",
+        "emoji": "🇯🇵",
+        "unicode": "U+1F1EF U+1F1F5",
+        "name": "Japan",
+        "value": "Japan",
+        "dialCode": "+81"
+    },
+    {
+        "code": "KE",
+        "emoji": "🇰🇪",
+        "unicode": "U+1F1F0 U+1F1EA",
+        "name": "Kenya",
+        "value": "Kenya",
+        "dialCode": "+254"
+    },
+    {
+        "code": "KG",
+        "emoji": "🇰🇬",
+        "unicode": "U+1F1F0 U+1F1EC",
+        "name": "Kyrgyzstan",
+        "value": "Kyrgyzstan",
+        "dialCode": "+996"
+    },
+    {
+        "code": "KH",
+        "emoji": "🇰🇭",
+        "unicode": "U+1F1F0 U+1F1ED",
+        "name": "Cambodia",
+        "value": "Cambodia",
+        "dialCode": "+855"
+    },
+    {
+        "code": "KI",
+        "emoji": "🇰🇮",
+        "unicode": "U+1F1F0 U+1F1EE",
+        "name": "Kiribati",
+        "value": "Kiribati",
+        "dialCode": "+686"
+    },
+    {
+        "code": "KM",
+        "emoji": "🇰🇲",
+        "unicode": "U+1F1F0 U+1F1F2",
+        "name": "Comoros",
+        "value": "Comoros",
+        "dialCode": "+269"
+    },
+    {
+        "code": "KN",
+        "emoji": "🇰🇳",
+        "unicode": "U+1F1F0 U+1F1F3",
+        "name": "Saint Kitts and Nevis",
+        "value": "Saint Kitts and Nevis",
+        "dialCode": "+1 869"
+    },
+    {
+        "code": "KP",
+        "emoji": "🇰🇵",
+        "unicode": "U+1F1F0 U+1F1F5",
+        "name": "North Korea",
+        "value": "North Korea",
+        "dialCode": "+850"
+    },
+    {
+        "code": "KR",
+        "emoji": "🇰🇷",
+        "unicode": "U+1F1F0 U+1F1F7",
+        "name": "South Korea",
+        "value": "South Korea",
+        "dialCode": "+82"
+    },
+    {
+        "code": "KW",
+        "emoji": "🇰🇼",
+        "unicode": "U+1F1F0 U+1F1FC",
+        "name": "Kuwait",
+        "value": "Kuwait",
+        "dialCode": "+965"
+    },
+    {
+        "code": "KY",
+        "emoji": "🇰🇾",
+        "unicode": "U+1F1F0 U+1F1FE",
+        "name": "Cayman Islands",
+        "value": "Cayman Islands",
+        "dialCode": "+ 345"
+    },
+    {
+        "code": "KZ",
+        "emoji": "🇰🇿",
+        "unicode": "U+1F1F0 U+1F1FF",
+        "name": "Kazakhstan",
+        "value": "Kazakhstan",
+        "dialCode": "+7 7"
+    },
+    {
+        "code": "LA",
+        "emoji": "🇱🇦",
+        "unicode": "U+1F1F1 U+1F1E6",
+        "name": "Lao People's Democratic Republic",
+        "value": "Lao People's Democratic Republic",
+        "dialCode": "+856"
+    },
+    {
+        "code": "LB",
+        "emoji": "🇱🇧",
+        "unicode": "U+1F1F1 U+1F1E7",
+        "name": "Lebanon",
+        "value": "Lebanon",
+        "dialCode": "+961"
+    },
+    {
+        "code": "LC",
+        "emoji": "🇱🇨",
+        "unicode": "U+1F1F1 U+1F1E8",
+        "name": "Saint Lucia",
+        "value": "Saint Lucia",
+        "dialCode": "+1 758"
+    },
+    {
+        "code": "LI",
+        "emoji": "🇱🇮",
+        "unicode": "U+1F1F1 U+1F1EE",
+        "name": "Liechtenstein",
+        "value": "Liechtenstein",
+        "dialCode": "+423"
+    },
+    {
+        "code": "LK",
+        "emoji": "🇱🇰",
+        "unicode": "U+1F1F1 U+1F1F0",
+        "name": "Sri Lanka",
+        "value": "Sri Lanka",
+        "dialCode": "+94"
+    },
+    {
+        "code": "LR",
+        "emoji": "🇱🇷",
+        "unicode": "U+1F1F1 U+1F1F7",
+        "name": "Liberia",
+        "value": "Liberia",
+        "dialCode": "+231"
+    },
+    {
+        "code": "LS",
+        "emoji": "🇱🇸",
+        "unicode": "U+1F1F1 U+1F1F8",
+        "name": "Lesotho",
+        "value": "Lesotho",
+        "dialCode": "+266"
+    },
+    {
+        "code": "LT",
+        "emoji": "🇱🇹",
+        "unicode": "U+1F1F1 U+1F1F9",
+        "name": "Lithuania",
+        "value": "Lithuania",
+        "dialCode": "+370"
+    },
+    {
+        "code": "LU",
+        "emoji": "🇱🇺",
+        "unicode": "U+1F1F1 U+1F1FA",
+        "name": "Luxembourg",
+        "value": "Luxembourg",
+        "dialCode": "+352"
+    },
+    {
+        "code": "LV",
+        "emoji": "🇱🇻",
+        "unicode": "U+1F1F1 U+1F1FB",
+        "name": "Latvia",
+        "value": "Latvia",
+        "dialCode": "+371"
+    },
+    {
+        "code": "LY",
+        "emoji": "🇱🇾",
+        "unicode": "U+1F1F1 U+1F1FE",
+        "name": "Libya",
+        "value": "Libya",
+        "dialCode": "+218"
+    },
+    {
+        "code": "MA",
+        "emoji": "🇲🇦",
+        "unicode": "U+1F1F2 U+1F1E6",
+        "name": "Morocco",
+        "value": "Morocco",
+        "dialCode": "+212"
+    },
+    {
+        "code": "MC",
+        "emoji": "🇲🇨",
+        "unicode": "U+1F1F2 U+1F1E8",
+        "name": "Monaco",
+        "value": "Monaco",
+        "dialCode": "+377"
+    },
+    {
+        "code": "MD",
+        "emoji": "🇲🇩",
+        "unicode": "U+1F1F2 U+1F1E9",
+        "name": "Moldova",
+        "value": "Moldova",
+        "dialCode": "+373"
+    },
+    {
+        "code": "ME",
+        "emoji": "🇲🇪",
+        "unicode": "U+1F1F2 U+1F1EA",
+        "name": "Montenegro",
+        "value": "Montenegro",
+        "dialCode": "+382"
+    },
+    {
+        "code": "MF",
+        "emoji": "🇲🇫",
+        "unicode": "U+1F1F2 U+1F1EB",
+        "name": "Saint Martin (French Part)",
+        "value": "Saint Martin (French Part)",
+        "dialCode": "+590"
+    },
+    {
+        "code": "MG",
+        "emoji": "🇲🇬",
+        "unicode": "U+1F1F2 U+1F1EC",
+        "name": "Madagascar",
+        "value": "Madagascar",
+        "dialCode": "+261"
+    },
+    {
+        "code": "MH",
+        "emoji": "🇲🇭",
+        "unicode": "U+1F1F2 U+1F1ED",
+        "name": "Marshall Islands",
+        "value": "Marshall Islands",
+        "dialCode": "+692"
+    },
+    {
+        "code": "MK",
+        "emoji": "🇲🇰",
+        "unicode": "U+1F1F2 U+1F1F0",
+        "name": "Macedonia",
+        "value": "Macedonia",
+        "dialCode": "+389"
+    },
+    {
+        "code": "ML",
+        "emoji": "🇲🇱",
+        "unicode": "U+1F1F2 U+1F1F1",
+        "name": "Mali",
+        "value": "Mali",
+        "dialCode": "+223"
+    },
+    {
+        "code": "MM",
+        "emoji": "🇲🇲",
+        "unicode": "U+1F1F2 U+1F1F2",
+        "name": "Myanmar",
+        "value": "Myanmar",
+        "dialCode": "+95"
+    },
+    {
+        "code": "MN",
+        "emoji": "🇲🇳",
+        "unicode": "U+1F1F2 U+1F1F3",
+        "name": "Mongolia",
+        "value": "Mongolia",
+        "dialCode": "+976"
+    },
+    {
+        "code": "MO",
+        "emoji": "🇲🇴",
+        "unicode": "U+1F1F2 U+1F1F4",
+        "name": "Macao",
+        "value": "Macao",
+        "dialCode": "+853"
+    },
+    {
+        "code": "MP",
+        "emoji": "🇲🇵",
+        "unicode": "U+1F1F2 U+1F1F5",
+        "name": "Northern Mariana Islands",
+        "value": "Northern Mariana Islands",
+        "dialCode": "+1 670"
+    },
+    {
+        "code": "MQ",
+        "emoji": "🇲🇶",
+        "unicode": "U+1F1F2 U+1F1F6",
+        "name": "Martinique",
+        "value": "Martinique",
+        "dialCode": "+596"
+    },
+    {
+        "code": "MR",
+        "emoji": "🇲🇷",
+        "unicode": "U+1F1F2 U+1F1F7",
+        "name": "Mauritania",
+        "value": "Mauritania",
+        "dialCode": "+222"
+    },
+    {
+        "code": "MS",
+        "emoji": "🇲🇸",
+        "unicode": "U+1F1F2 U+1F1F8",
+        "name": "Montserrat",
+        "value": "Montserrat",
+        "dialCode": "+1664"
+    },
+    {
+        "code": "MT",
+        "emoji": "🇲🇹",
+        "unicode": "U+1F1F2 U+1F1F9",
+        "name": "Malta",
+        "value": "Malta",
+        "dialCode": "+356"
+    },
+    {
+        "code": "MU",
+        "emoji": "🇲🇺",
+        "unicode": "U+1F1F2 U+1F1FA",
+        "name": "Mauritius",
+        "value": "Mauritius",
+        "dialCode": "+230"
+    },
+    {
+        "code": "MV",
+        "emoji": "🇲🇻",
+        "unicode": "U+1F1F2 U+1F1FB",
+        "name": "Maldives",
+        "value": "Maldives",
+        "dialCode": "+960"
+    },
+    {
+        "code": "MW",
+        "emoji": "🇲🇼",
+        "unicode": "U+1F1F2 U+1F1FC",
+        "name": "Malawi",
+        "value": "Malawi",
+        "dialCode": "+265"
+    },
+    {
+        "code": "MX",
+        "emoji": "🇲🇽",
+        "unicode": "U+1F1F2 U+1F1FD",
+        "name": "Mexico",
+        "value": "Mexico",
+        "dialCode": "+52"
+    },
+    {
+        "code": "MY",
+        "emoji": "🇲🇾",
+        "unicode": "U+1F1F2 U+1F1FE",
+        "name": "Malaysia",
+        "value": "Malaysia",
+        "dialCode": "+60"
+    },
+    {
+        "code": "MZ",
+        "emoji": "🇲🇿",
+        "unicode": "U+1F1F2 U+1F1FF",
+        "name": "Mozambique",
+        "value": "Mozambique",
+        "dialCode": "+258"
+    },
+    {
+        "code": "NA",
+        "emoji": "🇳🇦",
+        "unicode": "U+1F1F3 U+1F1E6",
+        "name": "Namibia",
+        "value": "Namibia",
+        "dialCode": "+264"
+    },
+    {
+        "code": "NC",
+        "emoji": "🇳🇨",
+        "unicode": "U+1F1F3 U+1F1E8",
+        "name": "New Caledonia",
+        "value": "New Caledonia",
+        "dialCode": "+687"
+    },
+    {
+        "code": "NE",
+        "emoji": "🇳🇪",
+        "unicode": "U+1F1F3 U+1F1EA",
+        "name": "Niger",
+        "value": "Niger",
+        "dialCode": "+227"
+    },
+    {
+        "code": "NF",
+        "emoji": "🇳🇫",
+        "unicode": "U+1F1F3 U+1F1EB",
+        "name": "Norfolk Island",
+        "value": "Norfolk Island",
+        "dialCode": "+672"
+    },
+    {
+        "code": "NG",
+        "emoji": "🇳🇬",
+        "unicode": "U+1F1F3 U+1F1EC",
+        "name": "Nigeria",
+        "value": "Nigeria",
+        "dialCode": "+234"
+    },
+    {
+        "code": "NI",
+        "emoji": "🇳🇮",
+        "unicode": "U+1F1F3 U+1F1EE",
+        "name": "Nicaragua",
+        "value": "Nicaragua",
+        "dialCode": "+505"
+    },
+    {
+        "code": "NL",
+        "emoji": "🇳🇱",
+        "unicode": "U+1F1F3 U+1F1F1",
+        "name": "Netherlands",
+        "value": "Netherlands",
+        "dialCode": "+31"
+    },
+    {
+        "code": "NO",
+        "emoji": "🇳🇴",
+        "unicode": "U+1F1F3 U+1F1F4",
+        "name": "Norway",
+        "value": "Norway",
+        "dialCode": "+47"
+    },
+    {
+        "code": "NP",
+        "emoji": "🇳🇵",
+        "unicode": "U+1F1F3 U+1F1F5",
+        "name": "Nepal",
+        "value": "Nepal",
+        "dialCode": "+977"
+    },
+    {
+        "code": "NR",
+        "emoji": "🇳🇷",
+        "unicode": "U+1F1F3 U+1F1F7",
+        "name": "Nauru",
+        "value": "Nauru",
+        "dialCode": "+674"
+    },
+    {
+        "code": "NU",
+        "emoji": "🇳🇺",
+        "unicode": "U+1F1F3 U+1F1FA",
+        "name": "Niue",
+        "value": "Niue",
+        "dialCode": "+683"
+    },
+    {
+        "code": "NZ",
+        "emoji": "🇳🇿",
+        "unicode": "U+1F1F3 U+1F1FF",
+        "name": "New Zealand",
+        "value": "New Zealand",
+        "dialCode": "+64"
+    },
+    {
+        "code": "OM",
+        "emoji": "🇴🇲",
+        "unicode": "U+1F1F4 U+1F1F2",
+        "name": "Oman",
+        "value": "Oman",
+        "dialCode": "+968"
+    },
+    {
+        "code": "PA",
+        "emoji": "🇵🇦",
+        "unicode": "U+1F1F5 U+1F1E6",
+        "name": "Panama",
+        "value": "Panama",
+        "dialCode": "+507"
+    },
+    {
+        "code": "PE",
+        "emoji": "🇵🇪",
+        "unicode": "U+1F1F5 U+1F1EA",
+        "name": "Peru",
+        "value": "Peru",
+        "dialCode": "+51"
+    },
+    {
+        "code": "PF",
+        "emoji": "🇵🇫",
+        "unicode": "U+1F1F5 U+1F1EB",
+        "name": "French Polynesia",
+        "value": "French Polynesia",
+        "dialCode": "+689"
+    },
+    {
+        "code": "PG",
+        "emoji": "🇵🇬",
+        "unicode": "U+1F1F5 U+1F1EC",
+        "name": "Papua New Guinea",
+        "value": "Papua New Guinea",
+        "dialCode": "+675"
+    },
+    {
+        "code": "PH",
+        "emoji": "🇵🇭",
+        "unicode": "U+1F1F5 U+1F1ED",
+        "name": "Philippines",
+        "value": "Philippines",
+        "dialCode": "+63"
+    },
+    {
+        "code": "PK",
+        "emoji": "🇵🇰",
+        "unicode": "U+1F1F5 U+1F1F0",
+        "name": "Pakistan",
+        "value": "Pakistan",
+        "dialCode": "+92"
+    },
+    {
+        "code": "PL",
+        "emoji": "🇵🇱",
+        "unicode": "U+1F1F5 U+1F1F1",
+        "name": "Poland",
+        "value": "Poland",
+        "dialCode": "+48"
+    },
+    {
+        "code": "PM",
+        "emoji": "🇵🇲",
+        "unicode": "U+1F1F5 U+1F1F2",
+        "name": "Saint Pierre and Miquelon",
+        "value": "Saint Pierre and Miquelon",
+        "dialCode": "+508"
+    },
+    {
+        "code": "PN",
+        "emoji": "🇵🇳",
+        "unicode": "U+1F1F5 U+1F1F3",
+        "name": "Pitcairn",
+        "value": "Pitcairn",
+        "dialCode": "+872"
+    },
+    {
+        "code": "PR",
+        "emoji": "🇵🇷",
+        "unicode": "U+1F1F5 U+1F1F7",
+        "name": "Puerto Rico",
+        "value": "Puerto Rico",
+        "dialCode": "+1 939"
+    },
+    {
+        "code": "PS",
+        "emoji": "🇵🇸",
+        "unicode": "U+1F1F5 U+1F1F8",
+        "name": "Palestinian Territory",
+        "value": "Palestinian Territory",
+        "dialCode": "+970"
+    },
+    {
+        "code": "PT",
+        "emoji": "🇵🇹",
+        "unicode": "U+1F1F5 U+1F1F9",
+        "name": "Portugal",
+        "value": "Portugal",
+        "dialCode": "+351"
+    },
+    {
+        "code": "PW",
+        "emoji": "🇵🇼",
+        "unicode": "U+1F1F5 U+1F1FC",
+        "name": "Palau",
+        "value": "Palau",
+        "dialCode": "+680"
+    },
+    {
+        "code": "PY",
+        "emoji": "🇵🇾",
+        "unicode": "U+1F1F5 U+1F1FE",
+        "name": "Paraguay",
+        "value": "Paraguay",
+        "dialCode": "+595"
+    },
+    {
+        "code": "QA",
+        "emoji": "🇶🇦",
+        "unicode": "U+1F1F6 U+1F1E6",
+        "name": "Qatar",
+        "value": "Qatar",
+        "dialCode": "+974"
+    },
+    {
+        "code": "RE",
+        "emoji": "🇷🇪",
+        "unicode": "U+1F1F7 U+1F1EA",
+        "name": "Réunion",
+        "value": "Réunion",
+        "dialCode": "+262"
+    },
+    {
+        "code": "RO",
+        "emoji": "🇷🇴",
+        "unicode": "U+1F1F7 U+1F1F4",
+        "name": "Romania",
+        "value": "Romania",
+        "dialCode": "+40"
+    },
+    {
+        "code": "RS",
+        "emoji": "🇷🇸",
+        "unicode": "U+1F1F7 U+1F1F8",
+        "name": "Serbia",
+        "value": "Serbia",
+        "dialCode": "+381"
+    },
+    {
+        "code": "RU",
+        "emoji": "🇷🇺",
+        "unicode": "U+1F1F7 U+1F1FA",
+        "name": "Russia",
+        "value": "Russia",
+        "dialCode": "+7"
+    },
+    {
+        "code": "RW",
+        "emoji": "🇷🇼",
+        "unicode": "U+1F1F7 U+1F1FC",
+        "name": "Rwanda",
+        "value": "Rwanda",
+        "dialCode": "+250"
+    },
+    {
+        "code": "SA",
+        "emoji": "🇸🇦",
+        "unicode": "U+1F1F8 U+1F1E6",
+        "name": "Saudi Arabia",
+        "value": "Saudi Arabia",
+        "dialCode": "+966"
+    },
+    {
+        "code": "SB",
+        "emoji": "🇸🇧",
+        "unicode": "U+1F1F8 U+1F1E7",
+        "name": "Solomon Islands",
+        "value": "Solomon Islands",
+        "dialCode": "+677"
+    },
+    {
+        "code": "SC",
+        "emoji": "🇸🇨",
+        "unicode": "U+1F1F8 U+1F1E8",
+        "name": "Seychelles",
+        "value": "Seychelles",
+        "dialCode": "+248"
+    },
+    {
+        "code": "SD",
+        "emoji": "🇸🇩",
+        "unicode": "U+1F1F8 U+1F1E9",
+        "name": "Sudan",
+        "value": "Sudan",
+        "dialCode": "+249"
+    },
+    {
+        "code": "SE",
+        "emoji": "🇸🇪",
+        "unicode": "U+1F1F8 U+1F1EA",
+        "name": "Sweden",
+        "value": "Sweden",
+        "dialCode": "+46"
+    },
+    {
+        "code": "SG",
+        "emoji": "🇸🇬",
+        "unicode": "U+1F1F8 U+1F1EC",
+        "name": "Singapore",
+        "value": "Singapore",
+        "dialCode": "+65"
+    },
+    {
+        "code": "SH",
+        "emoji": "🇸🇭",
+        "unicode": "U+1F1F8 U+1F1ED",
+        "name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "value": "Saint Helena, Ascension and Tristan Da Cunha",
+        "dialCode": "+290"
+    },
+    {
+        "code": "SI",
+        "emoji": "🇸🇮",
+        "unicode": "U+1F1F8 U+1F1EE",
+        "name": "Slovenia",
+        "value": "Slovenia",
+        "dialCode": "+386"
+    },
+    {
+        "code": "SJ",
+        "emoji": "🇸🇯",
+        "unicode": "U+1F1F8 U+1F1EF",
+        "name": "Svalbard and Jan Mayen",
+        "value": "Svalbard and Jan Mayen",
+        "dialCode": "+47"
+    },
+    {
+        "code": "SK",
+        "emoji": "🇸🇰",
+        "unicode": "U+1F1F8 U+1F1F0",
+        "name": "Slovakia",
+        "value": "Slovakia",
+        "dialCode": "+421"
+    },
+    {
+        "code": "SL",
+        "emoji": "🇸🇱",
+        "unicode": "U+1F1F8 U+1F1F1",
+        "name": "Sierra Leone",
+        "value": "Sierra Leone",
+        "dialCode": "+232"
+    },
+    {
+        "code": "SM",
+        "emoji": "🇸🇲",
+        "unicode": "U+1F1F8 U+1F1F2",
+        "name": "San Marino",
+        "value": "San Marino",
+        "dialCode": "+378"
+    },
+    {
+        "code": "SN",
+        "emoji": "🇸🇳",
+        "unicode": "U+1F1F8 U+1F1F3",
+        "name": "Senegal",
+        "value": "Senegal",
+        "dialCode": "+221"
+    },
+    {
+        "code": "SO",
+        "emoji": "🇸🇴",
+        "unicode": "U+1F1F8 U+1F1F4",
+        "name": "Somalia",
+        "value": "Somalia",
+        "dialCode": "+252"
+    },
+    {
+        "code": "SR",
+        "emoji": "🇸🇷",
+        "unicode": "U+1F1F8 U+1F1F7",
+        "name": "Suriname",
+        "value": "Suriname",
+        "dialCode": "+597"
+    },
+    {
+        "code": "SS",
+        "emoji": "🇸🇸",
+        "unicode": "U+1F1F8 U+1F1F8",
+        "name": "South Sudan",
+        "value": "South Sudan"
+    },
+    {
+        "code": "ST",
+        "emoji": "🇸🇹",
+        "unicode": "U+1F1F8 U+1F1F9",
+        "name": "Sao Tome and Principe",
+        "value": "Sao Tome and Principe",
+        "dialCode": "+239"
+    },
+    {
+        "code": "SV",
+        "emoji": "🇸🇻",
+        "unicode": "U+1F1F8 U+1F1FB",
+        "name": "El Salvador",
+        "value": "El Salvador",
+        "dialCode": "+503"
+    },
+    {
+        "code": "SX",
+        "emoji": "🇸🇽",
+        "unicode": "U+1F1F8 U+1F1FD",
+        "name": "Sint Maarten (Dutch Part)",
+        "value": "Sint Maarten (Dutch Part)"
+    },
+    {
+        "code": "SY",
+        "emoji": "🇸🇾",
+        "unicode": "U+1F1F8 U+1F1FE",
+        "name": "Syrian Arab Republic",
+        "value": "Syrian Arab Republic",
+        "dialCode": "+963"
+    },
+    {
+        "code": "SZ",
+        "emoji": "🇸🇿",
+        "unicode": "U+1F1F8 U+1F1FF",
+        "name": "Swaziland",
+        "value": "Swaziland",
+        "dialCode": "+268"
+    },
+    {
+        "code": "TC",
+        "emoji": "🇹🇨",
+        "unicode": "U+1F1F9 U+1F1E8",
+        "name": "Turks and Caicos Islands",
+        "value": "Turks and Caicos Islands",
+        "dialCode": "+1 649"
+    },
+    {
+        "code": "TD",
+        "emoji": "🇹🇩",
+        "unicode": "U+1F1F9 U+1F1E9",
+        "name": "Chad",
+        "value": "Chad",
+        "dialCode": "+235"
+    },
+    {
+        "code": "TF",
+        "emoji": "🇹🇫",
+        "unicode": "U+1F1F9 U+1F1EB",
+        "name": "French Southern Territories",
+        "value": "French Southern Territories"
+    },
+    {
+        "code": "TG",
+        "emoji": "🇹🇬",
+        "unicode": "U+1F1F9 U+1F1EC",
+        "name": "Togo",
+        "value": "Togo",
+        "dialCode": "+228"
+    },
+    {
+        "code": "TH",
+        "emoji": "🇹🇭",
+        "unicode": "U+1F1F9 U+1F1ED",
+        "name": "Thailand",
+        "value": "Thailand",
+        "dialCode": "+66"
+    },
+    {
+        "code": "TJ",
+        "emoji": "🇹🇯",
+        "unicode": "U+1F1F9 U+1F1EF",
+        "name": "Tajikistan",
+        "value": "Tajikistan",
+        "dialCode": "+992"
+    },
+    {
+        "code": "TK",
+        "emoji": "🇹🇰",
+        "unicode": "U+1F1F9 U+1F1F0",
+        "name": "Tokelau",
+        "value": "Tokelau",
+        "dialCode": "+690"
+    },
+    {
+        "code": "TL",
+        "emoji": "🇹🇱",
+        "unicode": "U+1F1F9 U+1F1F1",
+        "name": "Timor-Leste",
+        "value": "Timor-Leste",
+        "dialCode": "+670"
+    },
+    {
+        "code": "TM",
+        "emoji": "🇹🇲",
+        "unicode": "U+1F1F9 U+1F1F2",
+        "name": "Turkmenistan",
+        "value": "Turkmenistan",
+        "dialCode": "+993"
+    },
+    {
+        "code": "TN",
+        "emoji": "🇹🇳",
+        "unicode": "U+1F1F9 U+1F1F3",
+        "name": "Tunisia",
+        "value": "Tunisia",
+        "dialCode": "+216"
+    },
+    {
+        "code": "TO",
+        "emoji": "🇹🇴",
+        "unicode": "U+1F1F9 U+1F1F4",
+        "name": "Tonga",
+        "value": "Tonga",
+        "dialCode": "+676"
+    },
+    {
+        "code": "TR",
+        "emoji": "🇹🇷",
+        "unicode": "U+1F1F9 U+1F1F7",
+        "name": "Turkey",
+        "value": "Turkey",
+        "dialCode": "+90"
+    },
+    {
+        "code": "TT",
+        "emoji": "🇹🇹",
+        "unicode": "U+1F1F9 U+1F1F9",
+        "name": "Trinidad and Tobago",
+        "value": "Trinidad and Tobago",
+        "dialCode": "+1 868"
+    },
+    {
+        "code": "TV",
+        "emoji": "🇹🇻",
+        "unicode": "U+1F1F9 U+1F1FB",
+        "name": "Tuvalu",
+        "value": "Tuvalu",
+        "dialCode": "+688"
+    },
+    {
+        "code": "TW",
+        "emoji": "🇹🇼",
+        "unicode": "U+1F1F9 U+1F1FC",
+        "name": "Taiwan",
+        "value": "Taiwan",
+        "dialCode": "+886"
+    },
+    {
+        "code": "TZ",
+        "emoji": "🇹🇿",
+        "unicode": "U+1F1F9 U+1F1FF",
+        "name": "Tanzania",
+        "value": "Tanzania",
+        "dialCode": "+255"
+    },
+    {
+        "code": "UA",
+        "emoji": "🇺🇦",
+        "unicode": "U+1F1FA U+1F1E6",
+        "name": "Ukraine",
+        "value": "Ukraine",
+        "dialCode": "+380"
+    },
+    {
+        "code": "UG",
+        "emoji": "🇺🇬",
+        "unicode": "U+1F1FA U+1F1EC",
+        "name": "Uganda",
+        "value": "Uganda",
+        "dialCode": "+256"
+    },
+    {
+        "code": "UM",
+        "emoji": "🇺🇲",
+        "unicode": "U+1F1FA U+1F1F2",
+        "name": "United States Minor Outlying Islands",
+        "value": "United States Minor Outlying Islands"
+    },
+    {
+        "code": "US",
+        "emoji": "🇺🇸",
+        "unicode": "U+1F1FA U+1F1F8",
+        "name": "United States",
+        "value": "United States",
+        "dialCode": "+1"
+    },
+    {
+        "code": "UY",
+        "emoji": "🇺🇾",
+        "unicode": "U+1F1FA U+1F1FE",
+        "name": "Uruguay",
+        "value": "Uruguay",
+        "dialCode": "+598"
+    },
+    {
+        "code": "UZ",
+        "emoji": "🇺🇿",
+        "unicode": "U+1F1FA U+1F1FF",
+        "name": "Uzbekistan",
+        "value": "Uzbekistan",
+        "dialCode": "+998"
+    },
+    {
+        "code": "VA",
+        "emoji": "🇻🇦",
+        "unicode": "U+1F1FB U+1F1E6",
+        "name": "Vatican City",
+        "value": "Vatican City",
+        "dialCode": "+379"
+    },
+    {
+        "code": "VC",
+        "emoji": "🇻🇨",
+        "unicode": "U+1F1FB U+1F1E8",
+        "name": "Saint Vincent and The Grenadines",
+        "value": "Saint Vincent and The Grenadines",
+        "dialCode": "+1 784"
+    },
+    {
+        "code": "VE",
+        "emoji": "🇻🇪",
+        "unicode": "U+1F1FB U+1F1EA",
+        "name": "Venezuela",
+        "value": "Venezuela",
+        "dialCode": "+58"
+    },
+    {
+        "code": "VG",
+        "emoji": "🇻🇬",
+        "unicode": "U+1F1FB U+1F1EC",
+        "name": "Virgin Islands, British",
+        "value": "Virgin Islands, British",
+        "dialCode": "+1 284"
+    },
+    {
+        "code": "VI",
+        "emoji": "🇻🇮",
+        "unicode": "U+1F1FB U+1F1EE",
+        "name": "Virgin Islands, U.S.",
+        "value": "Virgin Islands, U.S.",
+        "dialCode": "+1 340"
+    },
+    {
+        "code": "VN",
+        "emoji": "🇻🇳",
+        "unicode": "U+1F1FB U+1F1F3",
+        "name": "Viet Nam",
+        "value": "Viet Nam",
+        "dialCode": "+84"
+    },
+    {
+        "code": "VU",
+        "emoji": "🇻🇺",
+        "unicode": "U+1F1FB U+1F1FA",
+        "name": "Vanuatu",
+        "value": "Vanuatu",
+        "dialCode": "+678"
+    },
+    {
+        "code": "WF",
+        "emoji": "🇼🇫",
+        "unicode": "U+1F1FC U+1F1EB",
+        "name": "Wallis and Futuna",
+        "value": "Wallis and Futuna",
+        "dialCode": "+681"
+    },
+    {
+        "code": "WS",
+        "emoji": "🇼🇸",
+        "unicode": "U+1F1FC U+1F1F8",
+        "name": "Samoa",
+        "value": "Samoa",
+        "dialCode": "+685"
+    },
+    {
+        "code": "XK",
+        "emoji": "🇽🇰",
+        "unicode": "U+1F1FD U+1F1F0",
+        "name": "Kosovo",
+        "value": "Kosovo",
+        "dialCode": "+383"
+    },
+    {
+        "code": "YE",
+        "emoji": "🇾🇪",
+        "unicode": "U+1F1FE U+1F1EA",
+        "name": "Yemen",
+        "value": "Yemen",
+        "dialCode": "+967"
+    },
+    {
+        "code": "YT",
+        "emoji": "🇾🇹",
+        "unicode": "U+1F1FE U+1F1F9",
+        "name": "Mayotte",
+        "value": "Mayotte",
+        "dialCode": "+262"
+    },
+    {
+        "code": "ZA",
+        "emoji": "🇿🇦",
+        "unicode": "U+1F1FF U+1F1E6",
+        "name": "South Africa",
+        "value": "South Africa",
+        "dialCode": "+27"
+    },
+    {
+        "code": "ZM",
+        "emoji": "🇿🇲",
+        "unicode": "U+1F1FF U+1F1F2",
+        "name": "Zambia",
+        "value": "Zambia",
+        "dialCode": "+260"
+    },
+    {
+        "code": "ZW",
+        "emoji": "🇿🇼",
+        "unicode": "U+1F1FF U+1F1FC",
+        "name": "Zimbabwe",
+        "value": "Zimbabwe",
+        "dialCode": "+263"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "name": "search-feed",
+    "version": "0.1",
+    "template": "basic",
+    "buildTag": "latest",
+    "env": null
+  }
+  
