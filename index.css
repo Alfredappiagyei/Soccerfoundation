@@ -233,12 +233,12 @@ MORE GALLERY BUTTON SECTION
   color: green;
 } 
 
-.more_gallery  i::after{
+/* .more_gallery  i::after{
   content: "View more";
   font-size: 20px;
   color:green ;
 } 
-
+ */
 
 /*-------------------------------------
              CONTACTS
